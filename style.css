@@ -1,0 +1,15 @@
+body{
+    background-color: cadetblue;
+}
+header{
+    border-bottom: 5px solid black;
+}
+footer{
+    border-top: 5px solid black;
+}
+main section.seccion-1 div.acerca-imagen{
+    text-align: center;
+}
+main section.seccion-2 {
+    text-align: center;
+}
