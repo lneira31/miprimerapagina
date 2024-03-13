@@ -13,3 +13,6 @@ main section.seccion-1 div.acerca-imagen{
 main section.seccion-2 {
     text-align: center;
 }
+main .greeting{
+    background-color: red;
+}
